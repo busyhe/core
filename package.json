@@ -1,5 +1,5 @@
 {
-    "name": "monorepo-template",
+    "name": "busyhe-core",
     "description": "A monorepo project",
     "author": "busyhe <busyhe@qq.com>",
     "version": "1.7.0",
@@ -34,11 +34,11 @@
         "typescript": "^5.0.4"
     },
     "bugs": {
-        "url": "https://github.com/busyhe/monorepo-template/issues"
+        "url": "https://github.com/busyhe/core/issues"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/busyhe/monorepo-template.git"
+        "url": "https://github.com/busyhe/core.git"
     },
     "config": {
         "commitizen": {
